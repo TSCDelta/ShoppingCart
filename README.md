@@ -1,0 +1,1 @@
+A Shopping Cart made using Express.js and React.js which lets players pick between items for sale. It then calculates the total price of these items and users can simulate a checkout similar to buying from other shopping sites. It uses LocalStorage to retrieve and remember data.
